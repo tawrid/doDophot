@@ -13,7 +13,7 @@ It is to analyse and automate the astro-photometry PSF fitting images. The origi
 
 <b>Contributors:</b>
 
-Tim Nautusch
+Tim Natusch
 
 Tawrid Hyder 
 
