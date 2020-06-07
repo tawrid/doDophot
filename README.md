@@ -11,6 +11,8 @@ Steps to follow on Mac OSX:
 6. Execute the 'doDophot.sh'. This will generate the processed files in to the 'ProcessedData' directory. You will find the obj_out files under the relevant folder, which is named out from the orirginal .fit file name.
 
 Contributors:
+
 Tim Nautusch
+
 Tawrid Hyder 
 
