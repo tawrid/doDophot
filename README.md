@@ -12,6 +12,7 @@ It is to analyse and automate the astro-photometry PSF fitting images. The origi
 7. If you want to process more .fit files, just simply add those in the 'data2process' directory and then execute the 'doDophot.sh' again.
 
 <b>Contributors:</b>
+
 Grant Christie
 
 Tim Natusch
